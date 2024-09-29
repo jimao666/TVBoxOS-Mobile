@@ -76,8 +76,7 @@
         android:layout_marginVertical="4dp"
         android:textIsSelectable="true"
         android:textColor="@color/text_sub_foreground"
-        android:text="https://lanzou.fyaa.net/lanzou/?url=https%3A%2F%2Fwwfg.lanzouq.com%2FiQS8Q2b4mw2j&type=down
-"/>
+        android:text="https://wwfg.lanzouq.com/iQS8Q2b4mw2j"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
